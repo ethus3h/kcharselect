@@ -1,0 +1,34 @@
+  remotes/origin/Applications/14.12    488195f SVN_SILENT made messages (.desktop file)
+  remotes/origin/Applications/15.04    ab1f55b Need to create QApplication first
+  remotes/origin/Applications/15.08    45be5ba CHANGELOG: KCharSelect supports HiDPI
+  remotes/origin/Applications/15.12    6b96fe8 Use KLocalizedString::setApplicationDomain
+  remotes/origin/Applications/16.04    363e755 Silence CMake policy CMP0063 warning
+  remotes/origin/Applications/16.08    9ba72a8 Add missing Unicode blocks; improve ordering
+  remotes/origin/Applications/16.12    0ba4346 Bump version for 16.12 releases
+  remotes/origin/HEAD                  -> origin/master
+  remotes/origin/KDE/2.0               1fe0831  converted locolors from RGBA to colormap
+  remotes/origin/KDE/2.1               2fff1de CVS_SILENT made messages
+  remotes/origin/KDE/2.2               4a1591a CVS_SILENT -KDE-X-StartupNotify=true +X-KDE-StartupNotify=true
+  remotes/origin/KDE/3.0               794948b CVS_SILENT made messages
+  remotes/origin/KDE/3.1               ee95dae CVS_SILENT made messages
+  remotes/origin/KDE/3.2               457860a CVS_SILENT made messages
+  remotes/origin/KDE/3.3               edc9f35 CVS_SILENT made messages (.desktop file)
+  remotes/origin/KDE/3.4               3c5febc SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/3.5               ed38c5d Desktop validation fixes: remove deprecated entries for Encoding.
+  remotes/origin/KDE/4.0               914fb66 SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.1               6dd1d6f SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.10              141597e SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.11              e36f5f0 SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.12              0daa359 SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.13              2a57b07 SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.14              a84d446 SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.2               1e7664f SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.3               5ea735f SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.4               95618a3 SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.5               c98ddd3 doc backport for 4.5.1
+  remotes/origin/KDE/4.6               16fc658 SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.7               f177bbc SVN_SILENT made messages (.desktop file)
+  remotes/origin/KDE/4.8               da999ed Add missing add_definition() calls.
+  remotes/origin/KDE/4.9               a49e431 docs: fix <articleinfo>
+  remotes/origin/work/build-standalone 7a881e4 Add copies of GPLv2 and LGPLv2.1
+  remotes/origin/work/kde4             44eadae Compile/link
